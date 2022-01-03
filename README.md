@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saran-23&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saran'sGitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saran-23&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -53,3 +53,9 @@
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://www.linkedin.com/in/saran-d-7624021b9/
 <!-- [portfolio]: https://comming soon/ -->
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
