@@ -1,4 +1,4 @@
-### Hello World, I'm Saran 👋
+### Hello, I'm Saran 👋
 
 
 - 🔭 I’m currently working on computer vision & Iot internship
