@@ -9,7 +9,7 @@
 ######  💬 Ask me about web development or ml models 
 ######  📫 How to reach me: [linkedin]
 ######  😄 Pronouns: He/His
-######  ⚡ Fun fact: Ctrl+ccccc, Ctrl+V
+######  ⚡ Hobby: Ctrl+ccccc, Ctrl+V
 <hr  background-color align="left" size="36">
 
 ### Let's Chat:
@@ -33,7 +33,6 @@
 
 <br />
 <br />
-<hr>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
