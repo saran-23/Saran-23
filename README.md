@@ -2,7 +2,7 @@
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47wtcza0fkyu1lwgrdi3gk645754u5csbdkc4cfaec&rid=giphy.gif&ct=g" width="500" height="320" /> 
  
 ######  ✍ Writer on medium
-######  🔭 I’m still studing 👨‍🎓
+######  🔭 I’m still studying 👨‍🎓
 ######  🌱 I’m currently focusing on machine learning
 ######  👯 I’m looking to collaborate on data engineer
 ######  🤔 I’m looking for help with ml algorithm
