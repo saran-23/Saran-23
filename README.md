@@ -20,6 +20,7 @@
 
 <br />
 
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
@@ -57,12 +58,10 @@
 
 <hr>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gruvbox&animation=default&layout=default&font=Redressed)
-
-
 ### 🗒️Blog posts!
 
 <!-- BLOG-POST-LIST:START -->
 [<img align="left" alt="Saran-d | LinkedIn"   width="50px" src="https://user-images.githubusercontent.com/50368466/147925901-5ea87154-83da-4740-8138-b37837c06cd3.png" />][youtube]
 <!-- BLOG-POST-LIST:END -->
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=flag-india&animation=default&layout=default&font=Gabrielle)
