@@ -65,3 +65,4 @@
 <!-- BLOG-POST-LIST:START -->
 [<img align="left" alt="Saran-d | LinkedIn"   width="50px" src="https://user-images.githubusercontent.com/50368466/147925901-5ea87154-83da-4740-8138-b37837c06cd3.png" />][youtube]
 <!-- BLOG-POST-LIST:END -->
+![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
