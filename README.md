@@ -57,6 +57,9 @@
 
 <hr>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gruvbox&animation=default&layout=default&font=Redressed)
+
+
 ### 🗒️Blog posts!
 
 <!-- BLOG-POST-LIST:START -->
