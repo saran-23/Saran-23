@@ -63,5 +63,5 @@
 <!-- BLOG-POST-LIST:START -->
 [<img align="left" alt="Saran-d | LinkedIn"   width="50px" src="https://user-images.githubusercontent.com/50368466/147925901-5ea87154-83da-4740-8138-b37837c06cd3.png" />][youtube]
 <!-- BLOG-POST-LIST:END -->
-
+<hr>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=flag-india&animation=default&layout=default&font=Gabrielle)
