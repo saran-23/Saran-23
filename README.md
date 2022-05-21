@@ -20,7 +20,7 @@
 
 <br />
 
-
+<a href="https://app.daily.dev/SARAN23"><img src="https://api.daily.dev/devcards/afd05d072c214d658a175ebd2b9385ad.png?r=srp" width="400" alt="Roman- Saran's Dev Card"/></a>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
