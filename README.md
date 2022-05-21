@@ -11,7 +11,7 @@
 ######  😄 Pronouns: He/His
 ######  ⚡ Hobby: Ctrl+ccccc, Ctrl+V
 <hr  background-color align="left" size="36">
-
+<a align="right" href="https://app.daily.dev/SARAN23"><img src="https://api.daily.dev/devcards/afd05d072c214d658a175ebd2b9385ad.png?r=srp" width="400" alt="Roman- Saran's Dev Card"/></a>
 ### Let's Chat:
 [<img align="left" alt="Saran-d | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Saran-d | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
@@ -20,7 +20,6 @@
 
 <br />
 
-<a href="https://app.daily.dev/SARAN23"><img src="https://api.daily.dev/devcards/afd05d072c214d658a175ebd2b9385ad.png?r=srp" width="400" alt="Roman- Saran's Dev Card"/></a>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
@@ -65,4 +64,4 @@
 <!-- BLOG-POST-LIST:START -->
 [<img align="left" alt="Saran-d | LinkedIn"   width="50px" src="https://user-images.githubusercontent.com/50368466/147925901-5ea87154-83da-4740-8138-b37837c06cd3.png" />][youtube]
 <!-- BLOG-POST-LIST:END -->
-![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg) -->
