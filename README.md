@@ -11,7 +11,6 @@
 ######  😄 Pronouns: He/His
 ######  ⚡ Hobby: Ctrl+ccccc, Ctrl+V
 <hr  background-color align="left" size="36">
-<a align="right" href="https://app.daily.dev/SARAN23"><img src="https://api.daily.dev/devcards/afd05d072c214d658a175ebd2b9385ad.png?r=srp" width="400" alt="Roman- Saran's Dev Card"/></a>
 ### Let's Chat:
 [<img align="left" alt="Saran-d | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Saran-d | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
